@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	font-family: "Comic Sans MS";
+}
+.header {
+	font-size: 250%;
+	text-align: left;
+}
+.sectionHead {
+	font-size: 150%;
+}
