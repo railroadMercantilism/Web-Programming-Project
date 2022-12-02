@@ -1,0 +1,28 @@
+header{
+        background-color: white;
+        text-align: center;
+        font-family: verdana;
+        border: 5px solid lightblue;
+        border-width: 5px;
+        
+
+
+        }
+
+button {
+  background-color: lightblue;
+  border: none;
+  color: grey;
+  width: 9%;
+  height: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: verdana;
+  font-size: 90%;
+}
+
+#clubName {
+    width: 90%;
+  height: 30px;
+}
